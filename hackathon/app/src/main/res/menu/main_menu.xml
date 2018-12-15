@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/in_case"
+    android:title="If a Vulcano errupts" />
+    <item android:id="@+id/direction"
+        android:title="Go to Safety" />
+    <item android:id="@+id/menu_Logout"
+        android:title="Logout" />
+
+
+</menu>
